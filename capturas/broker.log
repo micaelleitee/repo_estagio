@@ -1,0 +1,13 @@
+[BROKER 14:14:16] API HTTP (back-end) escutando em http://localhost:8081
+[BROKER 14:14:16] Escuta de dispositivos (WebSocket) em ws://localhost:8082
+[BROKER 14:14:26] Dispositivo conectado de 127.0.0.1 — token emitido: 0300fb6fe85c…
+[BROKER 14:14:26] Token 0300fb6fe85c… inscrito no tópico "all"
+[BROKER 14:14:45] Mensagem recebida do back-end para o tópico "all": "⚠️ Alerta operacional — USINA-CE-01"
+[BROKER 14:14:45] Fan-out concluído: 1 dispositivo(s) alcançado(s) no tópico "all"
+[BROKER 14:15:15] Mensagem recebida do back-end para o tópico "all": "⚠️ Alerta operacional — USINA-CE-01"
+[BROKER 14:15:15] Fan-out concluído: 1 dispositivo(s) alcançado(s) no tópico "all"
+[BROKER 14:15:30] Mensagem recebida do back-end para o tópico "all": "⚠️ Alerta operacional — USINA-CE-01"
+[BROKER 14:15:30] Fan-out concluído: 1 dispositivo(s) alcançado(s) no tópico "all"
+[BROKER 14:15:40] Requisição REJEITADA: credencial inválida
+[BROKER 14:16:00] Mensagem recebida do back-end para o tópico "all": "⚠️ Alerta operacional — USINA-CE-01"
+[BROKER 14:16:00] Fan-out concluído: 1 dispositivo(s) alcançado(s) no tópico "all"

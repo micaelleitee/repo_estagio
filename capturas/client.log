@@ -1,0 +1,24 @@
+[CLIENT 14:14:26] Iniciando aplicativo (simulação do dispositivo móvel)…
+[CLIENT 14:14:26] Conexão persistente estabelecida com o broker (soquete aberto)
+[CLIENT 14:14:26] Token de registro recebido: 0300fb6fe85c… (getToken)
+[CLIENT 14:14:26] Inscrito no tópico "all" (subscribeToTopic) — escutando…
+[CLIENT 14:14:45] Notificação recebida via push (onMessage)
+[CLIENT 14:14:45] Payload interceptado (messageId ff8c88ab…) e armazenado
+[CLIENT 14:14:45] 📱 UI ATUALIZADA — Toast exibido: "⚠️ Alerta operacional — USINA-CE-01"
+[CLIENT 14:14:45]    └─ Geração em nível crítico: 26.4 MW
+[CLIENT 14:14:45]    └─ dados: {"plantId":"USINA-CE-01","outputMW":"26.4","timestamp":"2026-07-03T14:14:45.006Z"} | total armazenado: 1
+[CLIENT 14:15:15] Notificação recebida via push (onMessage)
+[CLIENT 14:15:15] Payload interceptado (messageId 9206fc4f…) e armazenado
+[CLIENT 14:15:15] 📱 UI ATUALIZADA — Toast exibido: "⚠️ Alerta operacional — USINA-CE-01"
+[CLIENT 14:15:15]    └─ Geração em nível crítico: 35.8 MW
+[CLIENT 14:15:15]    └─ dados: {"plantId":"USINA-CE-01","outputMW":"35.8","timestamp":"2026-07-03T14:15:15.003Z"} | total armazenado: 2
+[CLIENT 14:15:30] Notificação recebida via push (onMessage)
+[CLIENT 14:15:30] Payload interceptado (messageId 96b562ee…) e armazenado
+[CLIENT 14:15:30] 📱 UI ATUALIZADA — Toast exibido: "⚠️ Alerta operacional — USINA-CE-01"
+[CLIENT 14:15:30]    └─ Geração em nível crítico: 36.1 MW
+[CLIENT 14:15:30]    └─ dados: {"plantId":"USINA-CE-01","outputMW":"36.1","timestamp":"2026-07-03T14:15:30.013Z"} | total armazenado: 3
+[CLIENT 14:16:00] Notificação recebida via push (onMessage)
+[CLIENT 14:16:00] Payload interceptado (messageId fe7b0eb7…) e armazenado
+[CLIENT 14:16:00] 📱 UI ATUALIZADA — Toast exibido: "⚠️ Alerta operacional — USINA-CE-01"
+[CLIENT 14:16:00]    └─ Geração em nível crítico: 3.2 MW
+[CLIENT 14:16:00]    └─ dados: {"plantId":"USINA-CE-01","outputMW":"3.2","timestamp":"2026-07-03T14:16:00.016Z"} | total armazenado: 4

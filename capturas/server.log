@@ -1,0 +1,26 @@
+[SERVER 14:14:38] Back-end iniciado. Agendamento cron ativo: "*/15 * * * * *"
+[SERVER 14:14:45] ⏰ Gatilho cron disparado — executando rotina de verificação
+[SERVER 14:14:45] Leitura: USINA-CE-01 gerando 26.4 MW [CRITICO]
+[SERVER 14:14:45] Enviando requisição autenticada ao broker (HTTP POST /v1/messages:send)…
+[SERVER 14:14:45] Broker respondeu 200 — entregue a 1 dispositivo(s)
+[SERVER 14:15:00] ⏰ Gatilho cron disparado — executando rotina de verificação
+[SERVER 14:15:00] Leitura: USINA-CE-01 gerando 53.9 MW [NORMAL]
+[SERVER 14:15:00] Estado normal — nenhum alerta necessário
+[SERVER 14:15:15] ⏰ Gatilho cron disparado — executando rotina de verificação
+[SERVER 14:15:15] Leitura: USINA-CE-01 gerando 35.8 MW [CRITICO]
+[SERVER 14:15:15] Enviando requisição autenticada ao broker (HTTP POST /v1/messages:send)…
+[SERVER 14:15:15] Broker respondeu 200 — entregue a 1 dispositivo(s)
+[SERVER 14:15:30] ⏰ Gatilho cron disparado — executando rotina de verificação
+[SERVER 14:15:30] Leitura: USINA-CE-01 gerando 36.1 MW [CRITICO]
+[SERVER 14:15:30] Enviando requisição autenticada ao broker (HTTP POST /v1/messages:send)…
+[SERVER 14:15:30] Broker respondeu 200 — entregue a 1 dispositivo(s)
+[SERVER 14:15:45] ⏰ Gatilho cron disparado — executando rotina de verificação
+[SERVER 14:15:45] Leitura: USINA-CE-01 gerando 81.8 MW [NORMAL]
+[SERVER 14:15:45] Estado normal — nenhum alerta necessário
+[SERVER 14:16:00] ⏰ Gatilho cron disparado — executando rotina de verificação
+[SERVER 14:16:00] Leitura: USINA-CE-01 gerando 3.2 MW [CRITICO]
+[SERVER 14:16:00] Enviando requisição autenticada ao broker (HTTP POST /v1/messages:send)…
+[SERVER 14:16:00] Broker respondeu 200 — entregue a 1 dispositivo(s)
+[SERVER 14:16:15] ⏰ Gatilho cron disparado — executando rotina de verificação
+[SERVER 14:16:15] Leitura: USINA-CE-01 gerando 90.1 MW [NORMAL]
+[SERVER 14:16:15] Estado normal — nenhum alerta necessário
