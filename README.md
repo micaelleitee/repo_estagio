@@ -1,6 +1,6 @@
 # Simulação — Arquitetura de Notificações Push (Cron → Broker → Mobile)
 
-> Material complementar do **Relatório de Estágio Supervisionado II** (Bacharelado em Sistemas de Informação, IFCE — Campus Crato). Esta é uma **simulação educacional** da arquitetura descrita no relatório. Nenhum código, credencial ou dado do ambiente de produção é utilizado: o papel do Firebase Cloud Messaging (FCM) é reproduzido localmente por um broker próprio, e os dados de geração de energia são fictícios.
+> Material do **Relatório de Estágio Supervisionado II**. Esta é uma **simulação educacional** da arquitetura descrita no relatório. Nenhum código, credencial ou dado do ambiente de produção é utilizado: o Firebase Cloud Messaging (FCM) é reproduzido localmente por um broker próprio, e os dados de geração de energia são fictícios.
 
 ## Arquitetura
 
